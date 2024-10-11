@@ -21,13 +21,10 @@ My background in customer service, particularly in high-end hospitality, has hon
 - **US Household Income Analysis**: Cleaned and explored US household income data, identifying states with highest and lowest average incomes.
 
 ### Excel
-[Your Excel projects here]
 
-### Tableau
-[Your Tableau projects here]
 
-### Python
-[Your Python projects here]
+
+
 
 ## Education
 - Google Data Analytics Professional Certificate (2024)
