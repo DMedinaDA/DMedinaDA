@@ -35,6 +35,6 @@ My background in customer service, particularly in high-end hospitality, has hon
 - Email: Derrick.medina1@outlook.com
 - Phone: (571) 565-6181
 - LinkedIn: [Derrick Medina's Profile](https://www.linkedin.com/in/derrick-medina/)
-- GitHub: [Derrick Medina's Portfolio](https://github.com/YourGitHubUsername)
+
 
 I'm actively seeking opportunities in data analytics where I can apply my skills and continue to grow as a professional. Feel free to reach out for collaborations or job opportunities!
