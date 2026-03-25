@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I’m Derrick Medina – Entry‑Level Data Analyst
 
 📍 Atlanta, GA | 🎯 Seeking full‑time Data Analyst roles (SQL, Power BI, Python)  
