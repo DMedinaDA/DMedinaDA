@@ -12,7 +12,7 @@ I’m a motivated **data analytics candidate** building expertise in **SQL, BigQ
 I transform messy raw data into clean, actionable insights—specializing in **data cleaning, exploratory analysis (EDA), and dashboarding** for business stakeholders.
 
 **What I bring to the table:**
-- ✅ **SQL**: Window functions (`ROW_NUMBER`, `RANK`), CTEs, joins, deduplication, date/string standardization
+- ✅ **SQL**: WHERE, GROUP BY, ORDER BY, Subqueries, Window functions (`ROW_NUMBER`, `RANK`), CTEs, joins, deduplication, date/string standardization
 - ✅ **Python**: Pandas, NumPy, Jupyter notebooks for EDA
 - ✅ **Visualization**: Power BI (dashboards, DAX), Tableau (basic)
 - ✅ **Cloud**: BigQuery, Databricks Lakehouse, Delta Lake
@@ -42,7 +42,7 @@ I transform messy raw data into clean, actionable insights—specializing in **d
   - Filled missing `industry` values via self‑join.
   - Built rolling 12‑month sums and ranked **top 5 layoff contributors per year**.
 - **Tech:** MySQL, CTEs, Window Functions, Data Cleaning
-- **🔗 [View Code & README](/global-layoffs-data-cleaning)**
+- 
 
 ### 2. 💰 US Household Income Analysis (MySQL)
 - **Goal:** Identify richest/poorest states and cities, and how area type impacts income.
@@ -52,7 +52,7 @@ I transform messy raw data into clean, actionable insights—specializing in **d
   - Joined geography + income tables, filtered out unreported (`mean = 0`) rows.
   - Ranked states by mean/median income; analyzed **richest cities per state**.
 - **Tech:** MySQL, INNER JOINs, Aggregations, Data Standardization
-- **🔗 [View Code & README](/us-household-income-analysis)**
+
 
 
 
